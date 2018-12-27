@@ -13,24 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "connect-flash": "^0.1.1",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.3.2",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
-    "express-session": "^1.14.2",
-    "jade": "^1.11.0",
-    "mongoose": "^4.6.8",
-    "morgan": "^1.9.1",
-    "serve-favicon": "^2.5.0",
     "twilio": "^3.26.0"
-  },
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "cheerio": "^0.22.0",
-    "connect-flash": "^0.1.1",
-    "mocha": "^5.2.0",
-    "supertest": "^2.0.1"
   }
 }
